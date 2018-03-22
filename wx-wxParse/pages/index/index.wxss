@@ -1,0 +1,9 @@
+/**index.wxss**/
+.uinn {
+  padding: 0.5em;
+  background-color: white;
+  text-align: left;
+  line-height: 2rem;
+  margin: 0 0.5em;
+  border:solid #e4e4e4 1px;
+}
